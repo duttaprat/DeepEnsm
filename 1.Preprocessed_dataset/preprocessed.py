@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jun 27 13:01:37 2017
-
-@author: Rajat
-"""
-
 from __future__ import division
 import warnings
 import numpy as np, pandas as pd
