@@ -13,7 +13,7 @@ The proposed framework works in four phases:
 
 Then these datasets are used to train two deep learning models, and those trained models are then used to generate final consensus partitionings.
 
-Prerequisities
+# **Prerequisities**
 
 •	keras
 
@@ -27,10 +27,10 @@ Prerequisities
 
 •	Numpy
 
-Preprocessed_dataset
+# **Preprocessed_dataset**
 
 This Folder contains python file for Preprocessing of datasets. 
 
-Need of preprocessing : Among all the genes of microarray dataset, all the genes are not differentially expressed over the two sample classes. Differentially expressed (DE) genes are relevant enough for clinical purpose which are very useful for diagnosis and prognosis of a particular disease. 
+**Need of preprocessing** : Among all the genes of microarray dataset, all the genes are not differentially expressed over the two sample classes. Differentially expressed (DE) genes are relevant enough for clinical purpose which are very useful for diagnosis and prognosis of a particular disease. 
 
 For this purpose, We have filtered genes. which had variances greater than 10 percentile. we have calculated the t-statistic , which compares the difference between two sample means, in relation to variation in the data.
