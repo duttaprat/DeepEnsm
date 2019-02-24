@@ -1,6 +1,7 @@
 # DeepEnsm
 Ensembling of Gene Clusters utilizing Deep Learning and Protein-protein Interaction Information
-The current paper is a combination of multiobjective optimization and deep-learning models to develop cluster ensemble system for gene clustering to generate consensus partitioning using protein protein interaction information. The proposed approach is used for clustering the genes by maintaining both biological relevance and statistical significance of the genes.
+
+The paper is a combination of multiobjective optimization and deep-learning models to develop cluster ensemble system for gene clustering to generate consensus partitioning using protein protein interaction information. The proposed approach is used for clustering the genes by maintaining both biological relevance and statistical significance of the genes.
 The proposed framework works in four phases: 
 
 (i)	filtering out the irrelevant genes from the microarray dataset
