@@ -1,4 +1,4 @@
-# 1. preprocessed_BCLL.txt is the dataset derived from Multi Objective Optimization. It consists of 4636 labeled genes (128 classes - labeled 0 to 127) and 19 unlabeled gene expressions that could not be assigned to any class.
+1. preprocessed_BCLL.txt is the dataset derived from Multi Objective Optimization. It consists of 4636 labeled genes (128 classes - labeled 0 to 127) and 19 unlabeled gene expressions that could not be assigned to any class.
 
 2. labeled_file.txt and unlabeled_file.txt is just a partitioning of the preprocessed_BCLL.txt dataset into labeled and unlabeled gene expression data.
 
