@@ -1,32 +1,22 @@
 # DeepEnsm
-Ensembling of Gene Clusters utilizing Deep Learning and Protein-protein Interaction Information
 
-The paper is a combination of multiobjective optimization and deep-learning models to develop cluster ensemble system for gene clustering to generate consensus partitioning using protein protein interaction information. The proposed approach is used for clustering the genes by maintaining both biological relevance and statistical significance of the genes.
-The proposed framework works in four phases: 
 
-(i)	filtering out the irrelevant genes from the microarray dataset
+## This is the readme file that contains the guidelines and information about the compilation the code of the following paper
 
-(ii)	generation of diverse base partitioning to optimize three different cluster quality measures and generates a set of partitioning solutions on the Pareto optimal front
+**Paper Name:-** Ensembling of Gene Clusters utilizing Deep Learning and Protein-protein Interaction Information
+* **Authors:** Pratik Dutta<sup>1</sup>, Sriparna Saha, Sraansh Chopra and Varnika Miglani
+* **Affiliation:** Indian Institute of Technology Patna, India
+* **Corresponding Author:** [Pratik Dutta](http://www.iitp.ac.in/~pratik.pcs16/) (pratik.pcs16@iitp.ac.in ) 
 
-(iii)	generation of a consensus partitioning using mentha scores to generating a weighted incidence matrix
 
-(iv)	finally, two approaches are used to generate a consensus partitioning from the obtained incidence matrix. The first approach is based on a traditional machine learning method, and another approach exploited a linkage graph and two deep neural models to generate the final clustering and thus, further providing labels to genes based on clusters.
 
-Then these datasets are used to train two deep learning models, and those trained models are then used to generate final consensus partitionings.
 
-# **Prerequisities**
-
-•	keras
-
-•	pandas
-
-•	Python 2.7+
-
-•	Sklearn
-
-•	Matplotlib 2.0+
-
-•	Numpy
+## Prerequisities
+* **[Python 2.7+](https://www.python.org/downloads/release/python-2713/)**
+* **[sklearn](https://scikit-learn.org/stable/install.html)**
+* **[matplotlib 2.0+](https://matplotlib.org/users/installing.html)**
+* **[mpl_toolkits](https://matplotlib.org/2.0.2/mpl_toolkits/index.html)**
+* **[numpy 1.10+](https://pypi.org/project/numpy/)**
 
 # **Preprocessed_dataset**
 
