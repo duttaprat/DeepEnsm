@@ -5,7 +5,7 @@
 
 **Paper Name:-** Ensembling of Gene Clusters utilizing Deep Learning and Protein-protein Interaction Information
 * **Authors:** Pratik Dutta<sup>1</sup>, Sriparna Saha<sup>1</sup>, Sraansh Chopra<sup>1</sup> and Varnika Miglani<sup>2</sup>
-* **Affiliation:** <sup>1</sup>Indian Institute of Technology Patna, India, <sup>1</sup>MIET
+* **Affiliation:** <sup>1</sup>Indian Institute of Technology Patna, India, <sup>2</sup>MIET
 * **Corresponding Author:** [Pratik Dutta](http://www.iitp.ac.in/~pratik.pcs16/) (pratik.pcs16@iitp.ac.in ) 
 
 
@@ -18,13 +18,13 @@
 * **[mpl_toolkits](https://matplotlib.org/2.0.2/mpl_toolkits/index.html)**
 * **[numpy 1.10+](https://pypi.org/project/numpy/)**
 
-# **Preprocessed_dataset**
+# **Preprocessed_dataset**: 
+This folder contains preprocessed datasets which are used as the input of the proposed MOO-based clustering algorithm.   
 
-This Folder contains python file for Preprocessing of datasets. 
 
-**Need of preprocessing** : All the genes of microarray dataset, are not differentially expressed over the two sample classes. Differentially expressed (DE) genes are relevant enough for clinical purpose which are very useful for diagnosis and prognosis of a particular disease. 
+## 1. MOO-based clustering
 
-For this purpose, We have filtered genes which had variances greater than 10 percentile. We have calculated the t-statistic , which compares the difference between two sample means, in relation to variation in the data.
+## 2. Algorithm -1 
 
-# **NN**
+## 3. Deep Learning Architechture
 This folder contains py files for training model which are used to generate final consensus partitionings.
