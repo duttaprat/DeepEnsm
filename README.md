@@ -28,3 +28,8 @@ This folder contains preprocessed datasets which are used as the input of the pr
 
 ## 3. Deep Learning Architechture
 This folder contains py files for training model which are used to generate final consensus partitionings.
+
+
+## Contribution
+
+This work currently under major revision in IEEE/ACM TCBB. For use the code or the preprocessed dataset, please open an issue first to discuss what you would like to do. Also you can contact to the corresponding author [Pratik Dutta](http://www.iitp.ac.in/~pratik.pcs16/) (pratik.pcs16@iitp.ac.in ) 
