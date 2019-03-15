@@ -4,8 +4,8 @@
 ## This is the readme file that contains the guidelines and information about the compilation the code of the following paper
 
 **Paper Name:-** Ensembling of Gene Clusters utilizing Deep Learning and Protein-protein Interaction Information
-* **Authors:** Pratik Dutta<sup>1</sup>, Sriparna Saha, Sraansh Chopra and Varnika Miglani
-* **Affiliation:** Indian Institute of Technology Patna, India
+* **Authors:** Pratik Dutta<sup>1</sup>, Sriparna Saha<sup>1</sup>, Sraansh Chopra<sup>1</sup> and Varnika Miglani<sup>2</sup>
+* **Affiliation:** <sup>1</sup>Indian Institute of Technology Patna, India, <sup>1</sup>MIET
 * **Corresponding Author:** [Pratik Dutta](http://www.iitp.ac.in/~pratik.pcs16/) (pratik.pcs16@iitp.ac.in ) 
 
 
