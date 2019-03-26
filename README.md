@@ -42,9 +42,10 @@ python main.py <initial_population_size> <number_of_generation>
 ## 2. Algorithm -1 
 
 ## NN
-This folder contains `.ipynb` files for training model which are used to generate final consensus partitionings for approach 2. For better use you can use `jupyter notebook` to run the files.
+This folder contains `.ipynb` files for training model which are used to generate final consensus partitionings for approach 2. For better use you can use `jupyter notebook` to run the files. The developed deep learning models are
 
-**NN Model.ipynb**
+* `NN Model.ipynb` A PyTorch[https://pytorch.org/] implementation of the proposed multi-layer perceptron with two hidden layers 
+* `CNN Model.ipynb`
 
 ## Contribution
 
