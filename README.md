@@ -29,7 +29,7 @@ This folder contains the python code of the proposed MOO-based clustering. Use `
 ```bash
 cd examples
 ```
-Write the **_PATH DESCRIPTION_** of the `dataset` in line number **31** of the **`main.py`**
+Write the **_PATH DESCRIPTION_** of the `dataset` in line number **27** of the **`main.py`**
 
 
 ```bash
@@ -41,9 +41,10 @@ python main.py <initial_population_size> <number_of_generation>
 
 ## 2. Algorithm -1 
 
-## 3. Deep Learning Architechture
-This folder contains py files for training model which are used to generate final consensus partitionings.
+## NN
+This folder contains `.ipynb` files for training model which are used to generate final consensus partitionings for approach 2. For better use you can use `jupyter notebook` to run the files.
 
+**NN Model.ipynb**
 
 ## Contribution
 
