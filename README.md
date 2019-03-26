@@ -18,8 +18,8 @@
 * **[mpl_toolkits](https://matplotlib.org/2.0.2/mpl_toolkits/index.html)**
 * **[numpy 1.10+](https://pypi.org/project/numpy/)**
 
-## Preprocessed_dataset: 
-This folder contains preprocessed datasets which are used as the input of the proposed MOO-based clustering algorithm.   
+## Preprocessed_dataset
+This folder contains five preprocessed datasets which are used as the input of the proposed MOO-based clustering algorithm.   
 
 
 ## MOO
@@ -40,7 +40,7 @@ python main.py <initial_population_size> <number_of_generation>
 
 
 
-## 2. Algorithm -1 
+## Algorithm -1 
 
 
 
