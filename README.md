@@ -22,7 +22,22 @@
 This folder contains preprocessed datasets which are used as the input of the proposed MOO-based clustering algorithm.   
 
 
-## 1. MOO-based clustering
+## MOO
+
+This folder contains the python code of the proposed MOO-based clustering. Use `terminal`(for linux users) and goto the '1. MOO-based clustering' folder. Then complie the code by following commands
+
+```bash
+cd examples
+```
+Write the **_PATH DESCRIPTION_** of the `dataset` in line number **31** of the **`main.py`**
+
+
+```bash
+python main.py <initial_population_size> <number_of_generation>
+```
+
+**Output:** Generate a file named **`non_dominated_solutions.txt`** that contains all the cluster information.
+
 
 ## 2. Algorithm -1 
 
