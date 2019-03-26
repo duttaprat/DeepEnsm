@@ -39,13 +39,21 @@ python main.py <initial_population_size> <number_of_generation>
 **Output:** Generate a file named **`non_dominated_solutions.txt`** that contains all the cluster information.
 
 
+
 ## 2. Algorithm -1 
+
+
 
 ## NN
 This folder contains `.ipynb` files for training model which are used to generate final consensus partitionings for approach 2. For better use you can use `jupyter notebook` to run the files. The developed deep learning models are
 
-* `NN Model.ipynb` A [PyTorch](https://pytorch.org/) implementation of the proposed multi-layer perceptron with two hidden layers 
-* `CNN Model.ipynb`
+* `NN Model.ipynb`  [PyTorch](https://pytorch.org/) implementation of the proposed multi-layer perceptron with two hidden layers 
+* `CNN Model.ipynb` [PyTorch](https://pytorch.org/) implementation of the proposed convolutional neural network
+* `Label Script.ipynb` is used to combine the originally labeled gene expressions and model labeled gene expressions into one file for further metric evaluations (BHI and BSI). 
+* `BHI_labels_CNN.txt` and `BHI_labels_NN_2Hidden.txt` are the labels assigned to the unlabeled gene expressions by the trained models plus the originally labeled gene expression profiles. 
+* `trained_model_10000_epochs.pt`, `trained_model_10000_epochs_2.pt`, `trained_model_10000_epochs_3.pt`, `trained_model_CNN_10000_epochs_1.pt`, `trained_model_CNN_10000_epochs_2.pt` files are the weights and bias matrices that are obtained after training the above models.
+
+
 
 ## Contribution
 
