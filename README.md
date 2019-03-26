@@ -40,7 +40,6 @@ python main.py <initial_population_size> <number_of_generation>
 
 
 
-## Algorithm -1 
 
 
 
