@@ -44,7 +44,7 @@ python main.py <initial_population_size> <number_of_generation>
 This folder contains `.ipynb` (Jupyter Notebok) files for creating a set of disconnected walks which further used to generate the `labelled dataset`. This `labelled dataset` is used as the training dataset for the proposed neural network models. The main components of the folder are 
 
 * **`BCLL_FuLL_Labels`** labels of the all non-dominated solutions for B-CLL dataset 
-* **`algorithm.ipynb`** This `jupyter notebook` file takes all non-dominated solutions as the input and gives weighted coincidence matrix. This coincidence matrix is fed to `algorithm 1` and it gives a set of disconnected walks. The set of the disconnected is save in `disconnected_walk.txt`
+* **`algorithm1.ipynb`** This `jupyter notebook` file takes all non-dominated solutions as the input and gives weighted coincidence matrix. This coincidence matrix is fed to `algorithm 1` and it gives a set of disconnected walks. The set of the disconnected is save in `disconnected_walk.txt`
 * **`create_train_test.ipynb`** This `jupyter notebook` generates `labeled_file.txt` and `unlabeled_file.txt`. 
 
 
