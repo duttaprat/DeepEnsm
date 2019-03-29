@@ -39,7 +39,11 @@ python main.py <initial_population_size> <number_of_generation>
 **Output:** Generate a file named **`non_dominated_solutions.txt`** that contains all the cluster information.
 
 
+# Approach 2
 
+This folder contains `.ipynb` (Jupyter Notebok) files for creating a set of disconnected walks which further used to generate the `labelled dataset`. This `labelled dataset` is used as the training dataset for the proposed neural network models. The main components of the folder are 
+
+* `BCLL_FuLL_Labels` labels of the all non-dominated solutions for B-CLL dataset 
 
 
 
