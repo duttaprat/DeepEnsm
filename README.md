@@ -6,6 +6,7 @@
 **Paper Name:-** Ensembling of Gene Clusters utilizing Deep Learning and Protein-protein Interaction Information
 * **Authors:** Pratik Dutta<sup>1</sup>, Sriparna Saha<sup>1</sup>, Sraansh Chopra<sup>1</sup> and Varnika Miglani<sup>2</sup>
 * **Affiliation:** <sup>1</sup>Indian Institute of Technology Patna, India, <sup>2</sup>Samsung R&D Institute India-Noida
+* **Accepted(8th May, 2019):** [IEEE/ACM Transactions on Computational Biology and Bioinformatics](https://www.computer.org/csdl/journal/tb)
 * **Corresponding Author:** [Pratik Dutta](http://www.iitp.ac.in/~pratik.pcs16/) (pratik.pcs16@iitp.ac.in ) 
 
 
@@ -62,5 +63,4 @@ This folder contains `.ipynb` files for training model which are used to generat
 
 
 ## Contribution
-
-This work currently under major revision in IEEE/ACM TCBB. For use the code or the preprocessed dataset, please open an issue first to discuss what you would like to do. Also you can contact to the corresponding author [Pratik Dutta](http://www.iitp.ac.in/~pratik.pcs16/) (pratik.pcs16@iitp.ac.in ) 
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
