@@ -9,6 +9,16 @@
 * **Accepted(8th May, 2019):** [IEEE/ACM Transactions on Computational Biology and Bioinformatics](https://www.computer.org/csdl/journal/tb)
 * **Corresponding Author:** [Pratik Dutta](http://www.iitp.ac.in/~pratik.pcs16/) (pratik.pcs16@iitp.ac.in ) 
 
+If you find this code or the article useful, consider citing our work: 
+```bash
+@article{dutta2019ensembling,
+  title={Ensembling of Gene Clusters utilizing Deep Learning and Protein-protein Interaction Information},
+  author={Dutta, Pratik and Saha, Sriparna and Chopra, Saraansh and Miglani, Varnika},
+  journal={IEEE/ACM transactions on computational biology and bioinformatics},
+  year={2019},
+  publisher={IEEE}
+}
+```
 
 
 
