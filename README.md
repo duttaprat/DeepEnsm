@@ -3,7 +3,7 @@
 
 ## This is the readme file that contains the guidelines and information about the compilation the code of the following paper
 
-**Paper Name:-** Ensembling of Gene Clusters utilizing Deep Learning and Protein-protein Interaction Information
+**Paper Name:-** [Ensembling of Gene Clusters utilizing Deep Learning and Protein-protein Interaction Information](https://ieeexplore.ieee.org/document/8721175)
 * **Authors:** Pratik Dutta<sup>1</sup>, Sriparna Saha<sup>1</sup>, Sraansh Chopra<sup>1</sup> and Varnika Miglani<sup>2</sup>
 * **Affiliation:** <sup>1</sup>Indian Institute of Technology Patna, India, <sup>2</sup>Samsung R&D Institute India-Noida
 * **Accepted(8th May, 2019):** [IEEE/ACM Transactions on Computational Biology and Bioinformatics](https://www.computer.org/csdl/journal/tb)
